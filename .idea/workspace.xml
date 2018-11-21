@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2470228-0d7c-49c1-a407-54bff7cbf0fe" name="Default" comment="" />
+    <list default="true" id="e2470228-0d7c-49c1-a407-54bff7cbf0fe" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arrUnique.js" afterPath="$PROJECT_DIR$/arrUnique.js" />
+    </list>
     <ignored path="commonJS.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
